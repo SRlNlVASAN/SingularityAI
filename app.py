@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from google.api_core.exceptions import ResourceExhausted  # If available in your environment
 import os
 
-
+# this project used gemini api and flask and html/css/js for a simple space themed chatbot
 # Load environment variables from .env
 load_dotenv()
 
