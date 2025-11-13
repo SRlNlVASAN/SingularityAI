@@ -1,6 +1,2 @@
-# ------------------
-# ENVIRONMENT FILES
-# ------------------
-.env              # Crucial: Keeps your API keys and secrets private!
-
-# ------------------
+# Secrets and environment variables
+.env

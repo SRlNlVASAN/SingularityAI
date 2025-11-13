@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify, render_template
 import google.generativeai as genai
 from dotenv import load_dotenv
-import os
 from google.api_core.exceptions import ResourceExhausted  # If available in your environment
+import os
 
 
 # Load environment variables from .env
